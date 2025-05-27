@@ -2,7 +2,7 @@
 
 
 
-<p align="left">✨Working on personal projects and stuff<br>📚 Studying Information Tech 1st Year<br>🎲 Fun fact: I love Jesus<br> 👨‍🎓Working my way towards not being an Illiterrate New-Gen Programmer XD</p>
+<p align="left">✨Working On Personal Projects<br>📚👨‍🎓 Information Tech 1st Year<br>✝ Christian <br> ❤ Web Dev</p>
 
 
 # 💻 Tech Stack:
