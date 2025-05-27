@@ -1,4 +1,4 @@
-<h1 align="left">printf("Hello World!"); My Name is Brent Daniel Lim, A Programming Student :) 🧃</h1>
+<h1 align="left">print("My Name is Brent Daniel Lim, A Programming Student 🧃");</h1>
 
 
 
