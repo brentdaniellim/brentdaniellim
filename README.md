@@ -2,7 +2,7 @@
 
 
 
-<p align="left">✨Working On Personal Projects<br>📚👨‍🎓 Information Tech 1st Year<br>✝ Christian <br> ❤ LUVs Web Development & Design </p>
+/*<p align="left">✨Working On Personal Projects<br>📚👨‍🎓 Information Tech 1st Year<br>✝ Christian <br> ❤ LUVs Web Development & Design </p>/*
 
 
 # 💻 Tech Stack:
