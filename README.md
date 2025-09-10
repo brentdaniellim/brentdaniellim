@@ -2,7 +2,7 @@
 
 
 
-<p align="left">✨Working On Personal Projects<br> 👾I code|I design | an I make every pixel count <br> ❤ LUVs Web Development & Design </p>
+<p align="left">✨Working On Personal Projects<br> 👾I code| I design | and I make every pixel count <br> ❤ LUVs Web Development & Design </p>
 
 
 # 💻 Tech Stack:
